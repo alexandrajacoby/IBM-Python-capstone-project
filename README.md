@@ -9,3 +9,4 @@ Seven Jupyter notebooks, dashboard code, and a deck
 6. Interactive maps with Folium map notebook
 7. Plotly Dash lab code
 8. Predictive analysis lab notebook
+9. Winning the Space Race with Data Science deck (pdf)
