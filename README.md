@@ -1,6 +1,6 @@
 # IBM-Python-capstone-project
 
-Eight Jupyter notebooks and a deck
+Seven Jupyter notebooks, dashboard code, and a deck
 1. SpaceX API calls notebook
 2. Web scraping notebook
 3. Data wrangling notebook
